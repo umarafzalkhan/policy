@@ -1,10 +1,10 @@
-This Privacy Policy describes how Note App ("the App") collects, uses, and protects your information when you use our mobile application. By using the App, you agree to the terms of this Privacy Policy.
+This Privacy Policy describes how the "miniNotes" app collects, uses, and protects your information when you use our mobile application. By using the App, you agree to the terms of this Privacy Policy.
 
 1. Information We Collect
 
 User-Generated Content: The App allows you to create and store notes. This includes text, images, links, formatting and any other content that you input into the app.
 
-Usage Data: We may collect usage data, such as the time you access notes or number of notes you save, it is used only to improve the app experience.
+Usage Data: We do not collect or have access to user's data.
 
 Device Information: We do not collect any information related to your device.
 
@@ -12,37 +12,27 @@ Advertising Data: The Google Mobile Ads SDK is used to display banner ads and in
 
 2. How We Use Your Information
 
-Provide and Improve the App: We use the collected information to provide the note-taking services, personalize your experience, and improve the app experience.
+Display ads: The ad-related data is used to show personalized ads by Google.
 
-Display ads: The ad related data is used to show personalized ads by Google, and you may chose to provide us with or with out the permission, if you give the permission for personal ads, then the ads will be personalized.
-
-App Analytics: We do not use usage data for any other analytics other than to display ads.
+App Analytics: We do not use usage data for any other analytics.
 
 3. How We Share Your Information
 
-Third-Party Ads: We may share information for serving personalized ads, the data collected by the ads provider will be handled as per their policy.
+- We will not sell or share your personal information with third parties for advertising purposes.
 
-No Other Sharing: We will not sell or share your personal information with third parties for advertising purposes.
-
-Law Enforcement: We may disclose information to comply with the law or legal processes, or protect our rights.
+Law Enforcement: We may disclose information to comply with the law or legal processes, or to protect our rights.
 
 4. Data Storage and Security
 
-Local Storage: Your notes and other data are stored locally on your device using a local database. The data is saved locally, and it is not encrypted on the local storage.
+Local Storage: Your notes and other data are stored locally on your device using a local database. The data is saved locally.
 
 Data Backup: The text and tags data are stored on your local storage.
 
 Data Export/Import: You can share your notes via any channel available on your device as plain text, we do not support importing or exporting of notes using any other form.
 
-Data Security: We use reasonable security measures to protect your data but no method is fully secure.
-
-5. User Consent
-
-Consent for ads: We use a consent dialog box to ask users for consent, before showing ads. We do not load any ad without user's explicit consent.
-
 6. Children's Privacy
 
-This App is designed for general use and not targeted to children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and believe your child has provided us with such information, please contact us, and we will take steps to delete that information. We also do not perform any action that explicitly verifies user’s age.
+This App is designed for general use and can be used by any age group. Our app does not contain any content against the policy. Though app contains ads so its recommended to 13+ age group.
 
 7. Changes to This Privacy Policy
 
@@ -50,4 +40,4 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at your_email@example.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at iumarafzalkhan@gmail.com.

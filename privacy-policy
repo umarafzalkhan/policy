@@ -1,43 +1,132 @@
-This Privacy Policy describes how the "miniNotes" app collects, uses, and protects your information when you use our mobile application. By using the App, you agree to the terms of this Privacy Policy.
+# Privacy Policy
 
-1. Information We Collect
+Effective date: May 6, 2026  
+Last updated: May 6, 2026
 
-User-Generated Content: The App allows you to create and store notes. This includes text, images, links, formatting and any other content that you input into the app.
+This Privacy Policy explains how Umar Afzal Khan ("we", "us", "our") handles your information when you use miniNotes (the "App").
 
-Usage Data: We do not collect or have access to user's data.
+## 1. Information We Collect
 
-Device Information: We do not collect any information related to your device.
+We collect only the data needed to run miniNotes:
 
-Advertising Data: The Google Mobile Ads SDK is used to display banner ads and interstitial ads, it may collect information to show relevant ads, please review Google ad policy for more information.
+1. Account data
+- Email address
+- Account ID from Firebase Authentication
+- Sign-in method (email/password or Google Sign-In)
 
-2. How We Use Your Information
+2. App content
+- Notes you create and save
+- Optional profile data such as display name and profile photo
 
-Display ads: The ad-related data is used to show personalized ads by Google.
+3. App security data
+- App lock settings (PIN or biometric/device lock preference)
 
-App Analytics: We do not use usage data for any other analytics.
+4. Technical data
+- Basic device/app information from the operating system and SDKs
+- Notification token data (if notifications are enabled)
 
-3. How We Share Your Information
+5. Ads-related data
+- Data used by ad providers (such as AdMob) to show and measure ads, based on platform settings and permissions
 
-- We will not sell or share your personal information with third parties for advertising purposes.
+## 2. How We Use Information
 
-Law Enforcement: We may disclose information to comply with the law or legal processes, or to protect our rights.
+We use this information to:
+- Let you sign in and use your account
+- Save and sync your notes
+- Provide security features like PIN or biometric lock
+- Send account-related messages like email verification or password reset
+- Show ads (where applicable)
+- Keep the app secure and working correctly
 
-4. Data Storage and Security
+## 3. Legal Bases for Processing (GDPR/UK GDPR)
 
-Local Storage: Your notes and other data are stored locally on your device using a local database. The data is saved locally.
+If GDPR/UK GDPR applies, we process data under one or more of these legal bases:
+- Contract (to provide the app features you request)
+- Legitimate interests (to secure and improve the app)
+- Consent (where required)
+- Legal obligations
 
-Data Backup: The text and tags data are stored on your local storage.
+## 4. Third-Party Services
 
-Data Export/Import: You can share your notes via any channel available on your device as plain text, we do not support importing or exporting of notes using any other form.
+miniNotes uses trusted third-party services, including:
+- Firebase Authentication
+- Cloud Firestore
+- Google Sign-In
+- Firebase Cloud Messaging
+- Google Mobile Ads (AdMob)
 
-6. Children's Privacy
+These services have their own privacy policies.
 
-This App is designed for general use and can be used by any age group. Our app does not contain any content against the policy. Though app contains ads so its recommended to 13+ age group.
+## 5. Where Data Is Stored
 
-7. Changes to This Privacy Policy
+Your data may be stored:
+- In cloud services (for account and sync features)
+- On your device (for local/offline app features)
 
-We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page. You should review this Privacy Policy periodically for changes.
+We keep data only for as long as needed to provide the app or meet legal requirements.
 
-8. Contact Us
+## 6. Account and Data Deletion
 
-If you have any questions or concerns about this Privacy Policy, please contact us at iumarafzalkhan@gmail.com.
+You can delete your account inside the app from Settings.
+
+When deletion is completed, we remove account-related data such as:
+- Authentication account data
+- Cloud notes and profile records
+- Related local app preferences on that device
+
+If you need help, contact iumarafzalkhan@gmail.com.
+
+## 7. Data Sharing
+
+We do not sell your personal data.
+
+We may share data only with service providers needed to run the app, or when required by law.
+
+## 8. International Data Transfers
+
+Your data may be processed in countries outside your own as part of cloud services. We use reasonable safeguards where required.
+
+## 9. Security
+
+We use reasonable technical and organizational measures to protect your data.
+
+## 10. Children's Privacy
+
+miniNotes is for general audiences. If local law requires parental or guardian involvement for younger users, that requirement applies.
+
+## 11. Your Rights
+
+Depending on your location, you may have rights to access, correct, delete, or restrict processing of your data.
+
+For requests, contact iumarafzalkhan@gmail.com.
+
+## 12. Terms of Use (Summary)
+
+By using miniNotes, you agree to use the app lawfully and responsibly.
+
+You are responsible for keeping your account credentials secure and for activity under your account.
+
+Your notes and content belong to you. We only process them to provide app features such as saving and syncing.
+
+We may update app features over time. The app is provided "as is" within the limits allowed by law.
+
+These terms are governed by the laws of India.
+
+## 13. GDPR Notice (EEA/UK Users)
+
+For users in the EEA and UK, this section is an additional notice.
+
+Our legal bases for processing are already listed in Section 3.
+
+You may also have GDPR rights, including access, correction, deletion, restriction, objection, portability, and complaint to a supervisory authority.
+
+For GDPR requests, contact iumarafzalkhan@gmail.com.
+
+## 14. Changes to This Policy
+
+We may update this policy from time to time. The latest version date is shown at the top.
+
+## 15. Contact
+
+Umar Afzal Khan  
+Email: iumarafzalkhan@gmail.com
